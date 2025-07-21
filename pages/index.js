@@ -12,7 +12,7 @@ export default function Home() {
       <main>
         <Header title="welcome to my website!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          by <code>dania santiago</code>
         </p>
       </main>
     </div>
